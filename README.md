@@ -1,1 +1,3 @@
 # Screen-time-analyzer-using-DATA-SCIENCE
+FIRST IMPORT THE DATASET
+2ND RUN THE  MAIN FILE
